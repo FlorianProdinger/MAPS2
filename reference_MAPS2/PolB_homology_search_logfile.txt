@@ -1,0 +1,58 @@
+
+
+Building a new DB, current time: 10/06/2020 09:59:44
+New DB name:   /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/20201005_MAPS2_pipeline/reference_MAPS2/PolB_homology_search_blastdb
+New DB title:  PolB_homology_search.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 11413 sequences in 0.375021 seconds.
+
+
+
+
+Building a new DB, current time: 10/06/2020 10:01:20
+New DB name:   /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/20201005_MAPS2_pipeline/reference_MAPS2/PolB_homology_search_blastdb
+New DB title:  PolB_homology_search.faa
+Sequence type: Protein
+Deleted existing Protein BLAST database named /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/20201005_MAPS2_pipeline/reference_MAPS2/PolB_homology_search_blastdb
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 11413 sequences in 0.381262 seconds.
+
+
+
+
+Building a new DB, current time: 10/06/2020 10:16:19
+New DB name:   /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/20201005_MAPS2_pipeline/reference_MAPS2/PolB_homology_search.faa
+New DB title:  PolB_homology_search.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 11413 sequences in 0.380246 seconds.
+
+
+
+
+Building a new DB, current time: 10/06/2020 10:26:42
+New DB name:   /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/20201005_MAPS2_pipeline/reference_MAPS2/PolB_homology_search.faa
+New DB title:  PolB_homology_search.faa
+Sequence type: Protein
+Deleted existing Protein BLAST database named /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/20201005_MAPS2_pipeline/reference_MAPS2/PolB_homology_search.faa
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 11413 sequences in 0.380871 seconds.
+
+
+
+
+Building a new DB, current time: 10/06/2020 10:27:22
+New DB name:   /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/20201005_MAPS2_pipeline/reference_MAPS2/PolB_homology_search.faa
+New DB title:  PolB_homology_search.faa
+Sequence type: Protein
+Deleted existing Protein BLAST database named /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/20201005_MAPS2_pipeline/reference_MAPS2/PolB_homology_search.faa
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 11413 sequences in 0.401158 seconds.
+
+

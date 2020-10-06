@@ -1,0 +1,145 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+      June 2020     
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30
+
+
+
+              _                          
+__      _____| | ___ ___  _ __ ___   ___ 
+\ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \
+ \ V  V /  __/ | (_| (_) | | | | | |  __/
+  \_/\_/ \___|_|\___\___/|_| |_| |_|\___|
+                                         
+
+
+
+
+	Welcome back!
+
+I loaded these moduls for you! <3
+
+
+
+You are using qsub with 1 query/queries!
+raxml
+
+This is the RAxML Master Pthread
+
+This is RAxML Worker Pthread Number: 1
+
+This is RAxML Worker Pthread Number: 2
+
+This is RAxML Worker Pthread Number: 3
+
+This is RAxML Worker Pthread Number: 4
+
+This is RAxML Worker Pthread Number: 5
+
+This is RAxML Worker Pthread Number: 6
+
+This is RAxML Worker Pthread Number: 7
+
+This is RAxML Worker Pthread Number: 8
+
+This is RAxML Worker Pthread Number: 9
+
+This is RAxML Worker Pthread Number: 10
+
+This is RAxML Worker Pthread Number: 11
+
+This is RAxML Worker Pthread Number: 12
+
+This is RAxML Worker Pthread Number: 13
+
+This is RAxML Worker Pthread Number: 14
+
+This is RAxML Worker Pthread Number: 15
+
+This is RAxML Worker Pthread Number: 16
+
+This is RAxML Worker Pthread Number: 17
+
+This is RAxML Worker Pthread Number: 18
+
+This is RAxML Worker Pthread Number: 19
+
+This is RAxML Worker Pthread Number: 20
+
+This is RAxML Worker Pthread Number: 21
+
+This is RAxML Worker Pthread Number: 22
+
+This is RAxML Worker Pthread Number: 23
+
+
+This is RAxML version 7.2.8 released by Alexandros Stamatakis in October 2010.
+
+With greatly appreciated code contributions by:
+Andre Aberer (TUM)
+Simon Berger (TUM)
+John Cazes (TACC)
+Michael Ott (TUM)
+Nick Pattengale (UNM)
+Wayne Pfeiffer (SDSC)
+Akifumi S. Tanabe (Univ. Tsukuba)
+
+
+Alignment has 20840 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 96.26%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 user-specifed trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 20840
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: WAG
+Fixed Base Frequencies:
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /lustre1/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/dada2_references/20200601_MAPS2_MIMI_TARA_EUK_BAC_ref_seqs_alingment.phylip -T 24 -p 1 -m PROTGAMMAWAG -g /lustre1/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/dada2_references/20200601_MAPS2_MIMI_TARA_EUK_BAC_ref_seqs_nwk.tre -n 20200601_MAPS2_MIMI_TARA_EUK_BAC_ref_seqs_pplacer 
+
+
+Testing which likelihood implementation to use
+Standard Implementation full tree traversal time: 6.482223
+Subtree Equality Vectors for gap columns full tree traversal time: 0.856517
+... using SEV-based implementation
+
+Inference[0]: Time 425.357799 GAMMA-based likelihood -1534217.597286, best rearrangement setting 5
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -1534217.597293 tree written to file /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/dada2_references/RAxML_result.20200601_MAPS2_MIMI_TARA_EUK_BAC_ref_seqs_pplacer
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -1534217.597293 .... 
+
+Final GAMMA-based Score of best tree -1534217.597293
+
+Program execution info written to /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/dada2_references/RAxML_info.20200601_MAPS2_MIMI_TARA_EUK_BAC_ref_seqs_pplacer
+Best-scoring ML tree written to: /lustre/aptmp/florian/megaviridae/all_experiments/Uranouchi_MP10/20191021_43_samples/MP_dada2/dada2_references/RAxML_bestTree.20200601_MAPS2_MIMI_TARA_EUK_BAC_ref_seqs_pplacer
+
+Overall execution time: 453.665223 secs or 0.126018 hours or 0.005251 days
+
