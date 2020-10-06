@@ -6,7 +6,7 @@ MAPS is short for "*M*EGAPRIMER *A*mplicon *P*rocessing *S*ystem" and is a analy
 
 The first version (i.e. MAPS) was published by Li & Hingamp et al. (2018) and was mostly based on bash and python. The current version was built on R, bash and python and incorporates dada2 (Callahan et al. 2016).
 
-The main script "MAPS2.tcsh" is the MAPS2 pipeline.
+The main script "MAPS2_main_pipeline.tcsh" is the MAPS2 pipeline.
 It calls in succession these steps:
 
 ## How to use MAPS2
