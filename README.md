@@ -25,14 +25,14 @@ MAPS2 can be used with and without the qsub system. However other software and a
  - mafft/7.453 
  - cd-hit/4.6.1
 
-After downloading MAPS and preparing the environment MAPS can be run by defining three variables in the pipeline:
 
-The output of the pipeline will be stored in the directory assigned to:
- ```MAIN_DIR```
-A directory holding the fastq (zipped also okay) must be assigned to:
- ```R_path_to_raw```
-Finally, MAPS2 needs to be told were scripts and references are located:
-```MAPS2_DIR```
+MAPS2 is run by executing the main script called  ```MAPS2_main_pipeline.tcsh```. This script will call other tcsh, python and R scripts. It is necessary to defining three variables in the pipeline by opening the main script and edditing the following three variables:
+
+- The output of the pipeline will be stored in the directory assigned to: ```MAIN_DIR```.
+
+- A directory holding the MEGAPRIMER amplicon sequencing fastq input files (zipped also okay). The absolute path must be assigned to: ```R_path_to_raw```.
+
+- Finally, MAPS2 needs to be told were scripts and references are located: ```MAPS2_DIR```. All necessary scripts and references can be downloaded [here](https://github.com/FlorianProdinger/MAPS2).
 
 
 
